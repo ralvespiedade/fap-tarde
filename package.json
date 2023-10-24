@@ -1,0 +1,17 @@
+{
+  "name": "fap-tarde",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.ts",
+  "scripts": {
+    "start": "ts-node src/main.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.8.8",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  }
+}
